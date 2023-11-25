@@ -59,4 +59,4 @@ jobs:
           app-name: 'Sajid140'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0B81EF241644625A616205E66770565 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D55013F3F98D4A2195A3BB70515746EA }}
